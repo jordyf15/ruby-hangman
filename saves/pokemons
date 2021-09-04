@@ -1,0 +1,26 @@
+--- !ruby/object:Game
+incorrect_guesses: 6
+guessed_letters:
+- d
+- s
+- e
+- i
+- u
+- o
+- a
+word:
+- r
+- u
+- f
+- f
+- l
+- e
+- d
+correct_letters:
+- _
+- u
+- _
+- _
+- _
+- e
+- d
